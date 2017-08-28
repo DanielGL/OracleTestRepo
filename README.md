@@ -21,6 +21,11 @@ You can practice using the markdown format here.
 
 [I'm an inline-style link with title](https://www.oracle.com "Oracle's Homepage")
 
+# This is a test
 ## H2
 ### Header3
 Stuff **bolded**
+List of things
+* One thing
+* Two things
+* Three things
